@@ -1,5 +1,3 @@
-package learn;
-
 public class Merge_Sort {
 
 	// l, m, h : low index, middle index, high index
